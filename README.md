@@ -3,6 +3,7 @@
 
 
 Predict Business risk. 
+
 There are two data files in the zip file attached: they are "assignment_train.csv" and "assignment_test.csv".
 The last column in assignment_train data set is 'business_risk' - it measures the riskiness of the customer dropping off. 
 Higher this 'business_risk' coefficient, higher are the chances that customer will abandon using our platform. 
